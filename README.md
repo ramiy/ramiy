@@ -1,6 +1,6 @@
 ### Hi there, I'm Rami Yushuvaev 👋
 
-Entrepreneur. Fullstack developer. Creator of ChartsCSS.org, GenerateWP.com, DisplayWP.com and many other projects. Contribute to open source projects. I try to share my knowledge by contributing to MDN.
+Entrepreneur. Fullstack developer. Creator of [ChartsCSS.org](https://chartscss.org/), [GenerateWP.com](https://generatewp.com/), [DisplayWP.com](https://displaywp.com/) and many other projects. Contribute to open source projects. I try to share my knowledge by contributing to MDN.
 
 I founded two startup companies. One almost sold for milions of dollars... almost. Currently I work with Israeli startups and hi-tech companies.
 
